@@ -2,6 +2,8 @@
 
 > Premium Web3 carbon credit tracking and management platform on MST Blockchain
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-10b981?logo=vercel)](https://frontend-five-puce-6m4wxuqryw.vercel.app)
+
 End-to-end carbon credit dApp for **MST Testnet** (chain ID `91562037`, currency `tMSTC`).
 Landowners register tree-planting projects, verifiers check the tree data, and verified credits can be claimed,
 transferred or retired. Sign in with **Google (email/social login)**, **BridgeKey Wallet**, or any
@@ -36,6 +38,13 @@ Greenchain-/
 | Explorer  | https://testnet.mstscan.com          |
 | Faucet    | https://faucet.mstblockchain.com     |
 | Currency  | tMSTC                                |
+
+
+## Live Demo
+
+> **Production URL:** https://frontend-five-puce-6m4wxuqryw.vercel.app
+
+Deployed on Vercel. No setup needed to explore the platform - Demo Mode is available without a wallet.
 
 ## Quick Start
 
